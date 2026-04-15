@@ -1,6 +1,6 @@
 # Micro-Scale Displacement Measurement with Computer Vision
 
-**Integrated Forming Systems Project | TU Clausthal | WiSe 2024/2025**
+**Forming Systems Project | TU Clausthal | WiSe 2024/2025**
 **Master Program: Intelligent Manufacturing**
 **Team (Group):** Nikhil Vinayagamurthy, Raghav Dixit, Kevin Kurisinkal Reji, Mudabbir Ahmed Khan, Jashanjot Singh
 
@@ -10,7 +10,7 @@
 
 Developed a non-contact, computer vision–based optical measurement tool to automatically detect and quantify **micro-scale deformation** in lightweight hybrid sandwich sheet specimens subjected to bending. The project addresses a key challenge in forming systems research: conventional contact-based methods cannot reliably measure the relative in-plane layer displacement that occurs at the micrometer scale during bending of layered composite materials used in aerospace and automotive applications.
 
-The final algorithm — a **morphology-based deformation tracking and displacement quantification pipeline** — was validated across 14 samples spanning 3 different specimen parts, achieving reliable crack path tracking and sub-pixel displacement measurement.
+The final algorithm - a **morphology-based deformation tracking and displacement quantification pipeline** - was validated across 14 samples spanning 3 different specimen parts, achieving reliable crack path tracking and sub-pixel displacement measurement.
 
 ---
 
@@ -137,6 +137,7 @@ Measurement results across all 14 samples (3 parts):
 ## Sample Visual Outputs
 
 **Mark 2 Overlay — Part 1**
+| ![Mark 2](rover-1.jpg) | ![Mark_overlay](rover-2.jpg) |
 Crack pixels highlighted in red, reference line in blue, tracked crack path in yellow.
 
 **Mark 2 Displacement Graph — Part 1**
