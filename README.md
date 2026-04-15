@@ -137,7 +137,7 @@ Measurement results across all 14 samples (3 parts):
 ## Sample Visual Outputs
 
 **Mark 2 Overlay — Part 1**
-| ![Mark 2](rover-1.jpg) | ![Mark_overlay](rover-2.jpg) |
+| ![Mark 2](Mark2_overlay.jpg) | ![Mark_overlay](rover-2.jpg) |
 Crack pixels highlighted in red, reference line in blue, tracked crack path in yellow.
 
 **Mark 2 Displacement Graph — Part 1**
