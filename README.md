@@ -178,5 +178,8 @@ A morphology-based deformation tracking algorithm was successfully developed to 
 ## Affiliation
 
 **Technische Universität Clausthal**
+
 Master Program — Intelligent Manufacturing
-Integrated Forming Systems Project | WiSe 2024/2025
+
+Forming Systems Project | WiSe 2024/2025
+
