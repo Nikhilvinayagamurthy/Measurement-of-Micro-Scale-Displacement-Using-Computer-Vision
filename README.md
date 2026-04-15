@@ -137,11 +137,21 @@ Measurement results across all 14 samples (3 parts):
 ## Sample Visual Outputs
 
 **Mark 2 Overlay — Part 1**
-| ![Mark 2](Mark2_overlay.jpg) | ![Mark_overlay](Mark_overlay.png) |
+| ![Mark 2](Mark2_overlay.jpg) |
+
+**Mark 2 Overlay — Part **
+| ![Mark_overlay](Mark_overlay.png) |
+
 Crack pixels highlighted in red, reference line in blue, tracked crack path in yellow.
 
 **Mark 2 Displacement Graph — Part 1**
-| ![Displacement graph](Mark2_overlay.jpg)
+
+| ![Displacement graph](Displacement_graph.png)
+
+Blue curve shows the full displacement profile; red horizontal lines indicate measured midpoint displacements at top and bottom.
+
+| ![Image_capture](Displacement_graph.png)
+
 Blue curve shows the full displacement profile; red horizontal lines indicate measured midpoint displacements at top and bottom.
 
 ---
