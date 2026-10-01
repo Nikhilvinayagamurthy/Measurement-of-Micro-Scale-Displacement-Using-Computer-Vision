@@ -74,7 +74,7 @@ Example results, Part 1:
 
 All results: [CV3_results.csv](CV3_results.csv)
 
-![Displacement graph](images/displacement_graph_part1.png)
+![Displacement graph](displacement_graph_part1.png)
 *Displacement profile of Part 1, Mark 2. The red lines mark the measured top and bottom displacement.*
 
 | Part 2 | Part 3 |
