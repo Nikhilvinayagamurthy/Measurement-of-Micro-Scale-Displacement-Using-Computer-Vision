@@ -79,7 +79,7 @@ All results: [CV3_results.csv](CV3_results.csv)
 
 | Part 2 | Part 3 |
 |---|---|
-| ![Part 2](images/results_part2.png) | ![Part 3](images/results_part3.png) |
+| ![Part 2](results_part2.png) | ![Part 3](results_part3.png) |
 
 ### Next steps
 - Compare the results against an independent reference measurement.
