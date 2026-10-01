@@ -39,7 +39,7 @@ Lightweight hybrid sandwich sheets are used in automotive and aerospace parts. W
 ### Approach 1: blob detection, discarded
 The first algorithm detected the reference marks as blobs and measured their shift. Scratches and oxidation on the surface were detected as marks too: **685 detections instead of the 2 real marks**. The method was not reliable on real specimens.
 
-![Blob detection result](images/blob_detection_685.png)
+![Blob detection result](imagesblob_detection_685.png)
 
 ### Approach 2: morphology-based crack tracking, final
 Instead of single points, the tool follows the continuous crack line at the layer interface and measures its perpendicular distance from a static reference line. Following a line makes the result robust against scratches and oxidation.
