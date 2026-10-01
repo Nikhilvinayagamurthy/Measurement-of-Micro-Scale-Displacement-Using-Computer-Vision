@@ -32,7 +32,7 @@ Lightweight hybrid sandwich sheets are used in automotive and aerospace parts. W
 - Physical reference marks were applied along the specimen edges.
 - In total, **14 samples** were evaluated.
 
-![Image capture](images/image_capture.png)
+![Image capture](Image_capture.png)
 
 ## Method
 
