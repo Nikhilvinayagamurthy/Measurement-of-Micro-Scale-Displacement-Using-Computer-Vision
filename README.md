@@ -3,6 +3,7 @@
 **Python and OpenCV tool that measures micrometer-scale layer displacement in bent sandwich sheets from microscope images, and writes overlay images, displacement graphs and CSV results automatically.**
 
 ![Overlay result](Mark2_overlay.jpg)
+
 *Crack pixels in red, median reference line in blue, tracked crack path in yellow.*
 
 | | |
@@ -75,6 +76,7 @@ Example results, Part 1:
 All results: [CV3_results.csv](CV3_results.csv)
 
 ![Displacement graph](Displacement_graph.png)
+
 *Displacement profile of Part 1, Mark 2. The red lines mark the measured top and bottom displacement.*
 
 | Part 2 | Part 3 |
